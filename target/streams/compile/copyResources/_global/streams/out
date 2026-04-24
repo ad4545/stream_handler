@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/ubuntu/stream_handler/src/main/resources/logback.xml,/home/ubuntu/stream_handler/target/scala-3.4.2/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/ubuntu/stream_handler/src/main/resources/application.conf,/home/ubuntu/stream_handler/target/scala-3.4.2/classes/application.conf)[0m
